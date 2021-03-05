@@ -1,2 +1,1 @@
-# C-Beginner
- C beginner level c files
+# C Files For Beginner
